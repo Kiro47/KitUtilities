@@ -1,0 +1,11 @@
+name: KitUtilities
+version: 1.0
+main: com.kiro.kitutils.KitUtilsMain
+author: Kiro
+description: Random Fixes and bugs for ChosenCraft KitPVP
+depend: [Vault]
+
+commands:
+  effcheck:
+    usage: /<command>
+    description: Checks a players effects.
